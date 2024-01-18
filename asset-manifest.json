@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/class10material/static/css/main.cc2f0027.css",
+    "main.js": "/class10material/static/js/main.44f9263e.js",
+    "static/js/787.aadca95f.chunk.js": "/class10material/static/js/787.aadca95f.chunk.js",
+    "index.html": "/class10material/index.html",
+    "main.cc2f0027.css.map": "/class10material/static/css/main.cc2f0027.css.map",
+    "main.44f9263e.js.map": "/class10material/static/js/main.44f9263e.js.map",
+    "787.aadca95f.chunk.js.map": "/class10material/static/js/787.aadca95f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc2f0027.css",
+    "static/js/main.44f9263e.js"
+  ]
+}
